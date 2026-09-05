@@ -53,7 +53,7 @@
   "practice/sql/easy/easy-in-002/solution.sql": "2bfdb127c9a42f724496d4f16b666b513dc2ba0fb6f8ef3327d2a77e04a3305c",
   "practice/sql/easy/easy-isnull-003/solution.sql": "351401ddcb04a6c941506e824587a33c4520b716311f59398f0eb54f5eb27f2c",
   "practice/sql/easy/easy-join-001/solution.sql": "acad791ea5bc162ec67828fbcee6c62aba6168b1c6d55e54135afc75e23c4b0f",
-  "practice/sql/easy/easy-join-002/solution.sql": "e57c2f653443b194d77e127f4335feb355d27f3d0b4c67941b46ecc6010e6c76",
+  "practice/sql/easy/easy-join-002/solution.sql": "f442b11f4c1234d9ac1cc51265116a8f72d59d344a6eed03fb466ad7ec246e6d",
   "practice/sql/medium/medium-union-175/solution.sql": "026f22afb076005557f0888eeb077361d7d27ee693a54dbd5616ff98829fa31c",
   "practice/sql/medium/medium-join-141/solution.sql": "8a7b51fe5b506f1a7599738a44c79c23bd056940a3d5911bc19efcc6b76e717b",
   "practice/sql/medium/medium-join-155/solution.sql": "24daf4e4281e95325a13e498568294f33c2a249a67933684bcf644bea877896b",
@@ -93,5 +93,11 @@
   "practice/python/easy/py-abs-gap/solution.py": "7bb52224e63a1aee5205dfd72d89789c49c5f610129517d6abe20745ceafa3f5",
   "practice/python/easy/py-all-passed/solution.py": "35f716991a91904a26a563b63e724847a9368098155c9cebd739bf6a2d96e701",
   "practice/sql/hard/hard-pivot-001/solution.sql": "68006c74623762ea56e2bbc53693a7e429fea9246cd9e01ceb3bd4f75e743d90",
-  "practice/sql/hard/hard-anti-001/solution.sql": "5fec4e5138973b9e03b2f95c0b7f44af50dbdccc475f6617521855bf6a5a9c82"
+  "practice/sql/hard/hard-anti-001/solution.sql": "5fec4e5138973b9e03b2f95c0b7f44af50dbdccc475f6617521855bf6a5a9c82",
+  "practice/python/easy/py-discount/solution.py": "89d6890e88c5c3904a2021b424af2942d21b6b0fa4bb7d3e44c49a79a6010293",
+  "practice/python/easy/py-grade-letter/solution.py": "59d2b58f4df34bdcc1330a95f0e2f08be132a780605ece5893c31fddfb02e090",
+  "practice/python/easy/py-number-sign/solution.py": "28b7acb1f732ac73559124dfb1590bb2f244ce616f7591fbc060919a0f1ca294",
+  "practice/python/easy/py-sum-positive/solution.py": "dfa7f9c91b2f9039ec29c4138c51ffef27258cc5aaec4fc374d77c0c64ec4593",
+  "practice/python/easy/py-max-price/solution.py": "612153fe66165243cb26f249163b6650bca08f037392326bf7497dae8f59a387",
+  "practice/python/easy/py-rectangle-area/solution.py": "8f8614db745d34a871f68f6163904fa75f56e9366ad5c8f4ed05e8d0272fcff2"
 }

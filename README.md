@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**101** problems solved on [Xom Data](https://xomdata.com/practice).
+**113** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 10 | 0 | 0 | 0 | 10 |
-| SQL | 52 | 35 | 4 | 0 | 91 |
+| Python | 19 | 0 | 0 | 0 | 19 |
+| SQL | 55 | 35 | 4 | 0 | 94 |
 
 **Recently solved**
 
-- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-09-05
-- [py-max-price](https://xomdata.com/practice/py-max-price) · Easy · 2026-09-05
-- [py-sum-positive](https://xomdata.com/practice/py-sum-positive) · Easy · 2026-09-05
-- [py-number-sign](https://xomdata.com/practice/py-number-sign) · Easy · 2026-09-05
-- [py-grade-letter](https://xomdata.com/practice/py-grade-letter) · Easy · 2026-09-05
-- [py-discount](https://xomdata.com/practice/py-discount) · Easy · 2026-09-05
-- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-05
-- [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-09-05
-- [py-all-passed](https://xomdata.com/practice/py-all-passed) · Easy · 2026-09-05
-- [py-abs-gap](https://xomdata.com/practice/py-abs-gap) · Easy · 2026-09-05
+- [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-09-05
+- [py-min-value](https://xomdata.com/practice/py-min-value) · Easy · 2026-09-05
+- [py-title-case](https://xomdata.com/practice/py-title-case) · Easy · 2026-09-05
+- [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-09-05
+- [py-in-stock](https://xomdata.com/practice/py-in-stock) · Easy · 2026-09-05
+- [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-09-05
+- [py-count-value](https://xomdata.com/practice/py-count-value) · Easy · 2026-09-05
+- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-09-05
+- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-09-05
+- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-09-05
 
-_Synced 101 solutions · last update 2026-09-05_
+_Synced 113 solutions · last update 2026-09-05_
 
 <!-- xomdata:stats:end -->
 

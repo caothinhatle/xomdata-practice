@@ -99,5 +99,17 @@
   "practice/python/easy/py-number-sign/solution.py": "28b7acb1f732ac73559124dfb1590bb2f244ce616f7591fbc060919a0f1ca294",
   "practice/python/easy/py-sum-positive/solution.py": "dfa7f9c91b2f9039ec29c4138c51ffef27258cc5aaec4fc374d77c0c64ec4593",
   "practice/python/easy/py-max-price/solution.py": "612153fe66165243cb26f249163b6650bca08f037392326bf7497dae8f59a387",
-  "practice/python/easy/py-rectangle-area/solution.py": "8f8614db745d34a871f68f6163904fa75f56e9366ad5c8f4ed05e8d0272fcff2"
+  "practice/python/easy/py-rectangle-area/solution.py": "8f8614db745d34a871f68f6163904fa75f56e9366ad5c8f4ed05e8d0272fcff2",
+  "practice/python/easy/py-initials/solution.py": "473b4f676ed7e5e5106ef550687344fd006fe2bc53062ca4c38a7e937c9d9e88",
+  "practice/sql/easy/easy-join-003/solution.sql": "78ada22f85f2379a8cae480e756cfef593a57877b1dd1f871c5c3798671c63a4",
+  "practice/sql/easy/easy-join-004/solution.sql": "3f00caad3a44e20704f2295ce677b3d4380941d39153286469862d0dfeaa29c3",
+  "practice/python/easy/py-count-digits/solution.py": "fb079d8c3537d9c7781b53fdf753e340a2ae7d0d76b9eef9bba4cc39dbad1dd7",
+  "practice/python/easy/py-count-even/solution.py": "cae66131e56c27f7b9149503baa341aed51be5ef0d7b8e3793be339393e62845",
+  "practice/python/easy/py-count-value/solution.py": "7077f2dba3bdf505af77d45f4224515cd46e4af80eee2f7aab7660a6e3669fd2",
+  "practice/python/easy/py-tip-amount/solution.py": "c53b1b45aa9b6f60f99b39e53a8a86e0b76cca42cacfa90be29d8edc206616b9",
+  "practice/python/easy/py-in-stock/solution.py": "6c3963d5b0f33ece27cff065d8dc226d3c8069ce5c78961505ad1c8fa9a45ae9",
+  "practice/python/easy/py-shipping-fee/solution.py": "b37b8f945a4f94015f9e28acdd339d449b2850cbe1034c4ff50548e1cd18b1d1",
+  "practice/python/easy/py-title-case/solution.py": "5e5642c5e1f9f5164135aadbf3ecc39c065aa63b8bc0d2cd4436f08cbed3eac0",
+  "practice/python/easy/py-min-value/solution.py": "3a8896109f92a20bafb2e473a41db95be42c1ede2238df661d27481bf030f6e2",
+  "practice/sql/easy/easy-leftjoin-002/solution.sql": "6156f0b6ec6c9ed4a9b8a17368c94618e30a90566639856cabc8818211ee89de"
 }

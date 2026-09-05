@@ -91,5 +91,7 @@
   "practice/python/easy/py-average/solution.py": "456354907266c8cda6c9adb7b786e54a78a3d15851b26305255d08ec2c7451b0",
   "practice/python/easy/py-above-threshold/solution.py": "a3846b68b01f7f0de50d2fe0a7b6784f6658ce1a078f9672d4d7cbcab5ab36ba",
   "practice/python/easy/py-abs-gap/solution.py": "7bb52224e63a1aee5205dfd72d89789c49c5f610129517d6abe20745ceafa3f5",
-  "practice/python/easy/py-all-passed/solution.py": "35f716991a91904a26a563b63e724847a9368098155c9cebd739bf6a2d96e701"
+  "practice/python/easy/py-all-passed/solution.py": "35f716991a91904a26a563b63e724847a9368098155c9cebd739bf6a2d96e701",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "68006c74623762ea56e2bbc53693a7e429fea9246cd9e01ceb3bd4f75e743d90",
+  "practice/sql/hard/hard-anti-001/solution.sql": "5fec4e5138973b9e03b2f95c0b7f44af50dbdccc475f6617521855bf6a5a9c82"
 }

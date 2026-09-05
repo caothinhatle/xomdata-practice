@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**93** problems solved on [Xom Data](https://xomdata.com/practice).
+**95** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 52 | 35 | 2 | 0 | 89 |
+| SQL | 52 | 35 | 4 | 0 | 91 |
 
 **Recently solved**
 
+- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-05
+- [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-09-05
 - [py-all-passed](https://xomdata.com/practice/py-all-passed) · Easy · 2026-09-05
 - [py-abs-gap](https://xomdata.com/practice/py-abs-gap) · Easy · 2026-09-05
 - [py-above-threshold](https://xomdata.com/practice/py-above-threshold) · Easy · 2026-09-05
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-08-24
 - [medium-active-002](https://xomdata.com/practice/medium-active-002) · Medium · 2026-08-24
 - [medium-cohort-005](https://xomdata.com/practice/medium-cohort-005) · Medium · 2026-08-24
-- [medium-churn-002](https://xomdata.com/practice/medium-churn-002) · Medium · 2026-08-23
-- [medium-gap-001](https://xomdata.com/practice/medium-gap-001) · Medium · 2026-08-23
 
-_Synced 93 solutions · last update 2026-09-05_
+_Synced 95 solutions · last update 2026-09-05_
 
 <!-- xomdata:stats:end -->
 

@@ -78,5 +78,18 @@
   "practice/sql/medium/medium-classify-002/solution.sql": "b79afce8a0c8799f8c57d3d065aeb34f67857685ece645dc360faef807adaa0c",
   "practice/sql/medium/medium-recency-005/solution.sql": "e5c91e9973730cf242757b432749d6d9e1855c978a7ba2915f62cc36ed743cc7",
   "practice/sql/medium/medium-frequency-005/solution.sql": "c9cc3f5f27c397ab85b84fab87b330df2b604a77efdc10faa44827a6dc16f99c",
-  "practice/sql/medium/medium-repeat-005/solution.sql": "a880c7b40795939c73dc4fc3e2173ea53dfb1d16ef7916879f5c3b96371e603e"
+  "practice/sql/medium/medium-repeat-005/solution.sql": "a880c7b40795939c73dc4fc3e2173ea53dfb1d16ef7916879f5c3b96371e603e",
+  "practice/sql/medium/medium-case-160/solution.sql": "9c8f42055ac23e6fdb9142ca661554fa3f7098fd647d57eb5ad88cbad2316a0d",
+  "practice/sql/medium/medium-repeat-002/solution.sql": "dcb3c962920799e34a494cad829428b59d559222044126a5be69bdf1cbbba333",
+  "practice/sql/medium/medium-cohort-004/solution.sql": "585bc4ae4402fb021ac1c04850b741df949ca386d2f63cea42daa9ce0cf9559c",
+  "practice/sql/medium/medium-gap-001/solution.sql": "94921237ad9712edafaf9b453371bb7e2af900a1beb94a4dfe7e65ba3c87806e",
+  "practice/sql/medium/medium-churn-002/solution.sql": "a607f49f2b60f045de8d8e0afd51f6a0458a647cfce8c717a3299cc22ff69738",
+  "practice/sql/medium/medium-cohort-005/solution.sql": "190a10643464d018842d93edfedf099d287eda62fa9960d3dfdcb9d72a9b5766",
+  "practice/sql/medium/medium-active-002/solution.sql": "15f7da756488a79f931ffd1c582f89c6f8218a48a7d41e6f360013010647ccd2",
+  "practice/sql/hard/hard-multicte-001/solution.sql": "87f1dd74c746b962e7421da81ac31604ed20214fd2ba025bc6c5ef0e68ebc227",
+  "practice/sql/medium/medium-cohort-006/solution.sql": "61be99608055379be3693130f69ad671158b595e2257417ba8dd8cbd8b58fba8",
+  "practice/python/easy/py-average/solution.py": "456354907266c8cda6c9adb7b786e54a78a3d15851b26305255d08ec2c7451b0",
+  "practice/python/easy/py-above-threshold/solution.py": "a3846b68b01f7f0de50d2fe0a7b6784f6658ce1a078f9672d4d7cbcab5ab36ba",
+  "practice/python/easy/py-abs-gap/solution.py": "7bb52224e63a1aee5205dfd72d89789c49c5f610129517d6abe20745ceafa3f5",
+  "practice/python/easy/py-all-passed/solution.py": "35f716991a91904a26a563b63e724847a9368098155c9cebd739bf6a2d96e701"
 }

@@ -126,5 +126,6 @@
   "practice/python/easy/py-late-fee/solution.py": "77d7ceed503bfe8bdf7498f720ead2e2b2533b99f9ff33277d8f351f16187e23",
   "practice/python/easy/py-leftover-seats/solution.py": "781ef56be3045e7ae57f834fa953d5392c97bc5cc831b30689c616f876bfb588",
   "practice/python/easy/py-mask-phone/solution.py": "8d15afa1cca845ca669dc665c428ec07e42e10d53542d2967bdb0c7cbbe15065",
-  "practice/python/easy/py-filter-long-names/solution.py": "29cbd30e6560b6ca6a3e33effd3ea89e9141be4c891f470bfb316f8abf0deab0"
+  "practice/python/easy/py-filter-long-names/solution.py": "29cbd30e6560b6ca6a3e33effd3ea89e9141be4c891f470bfb316f8abf0deab0",
+  "practice/sql/hard/hard-ltv-006/solution.sql": "641281e0c0ecdc48fde311dfcc662f0749d34f98f023e57418c204260c1fd20e"
 }

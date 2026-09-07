@@ -112,5 +112,19 @@
   "practice/python/easy/py-title-case/solution.py": "5e5642c5e1f9f5164135aadbf3ecc39c065aa63b8bc0d2cd4436f08cbed3eac0",
   "practice/python/easy/py-min-value/solution.py": "3a8896109f92a20bafb2e473a41db95be42c1ede2238df661d27481bf030f6e2",
   "practice/sql/easy/easy-leftjoin-002/solution.sql": "6156f0b6ec6c9ed4a9b8a17368c94618e30a90566639856cabc8818211ee89de",
-  "practice/python/easy/py-reverse-code/solution.py": "923b40945ccc1ec1ac15ec832af1f62f6368a6a37775e9f64e848f3e6cd496b3"
+  "practice/python/easy/py-reverse-code/solution.py": "923b40945ccc1ec1ac15ec832af1f62f6368a6a37775e9f64e848f3e6cd496b3",
+  "practice/python/easy/py-completion-rate/solution.py": "1412f31843d5b4608f7a5462a60404459b716c82d29de1ed0bb0e31fae833fb9",
+  "practice/python/easy/py-compound-interest/solution.py": "d66159550cc642cdcc0975b66d36e663b4b323abb429f4436bf9a446cd3a8222",
+  "practice/python/easy/py-word-count/solution.py": "65ba6819cbf249c833e356f8c8160d52569bd03157a96a5e44855b0dcb0fd6c3",
+  "practice/python/easy/py-province-code/solution.py": "50b0c47a021d5e34f30f6fe97aa42f6cb12a7372f35f4afc7aa6b5ce2c1fd8c5",
+  "practice/python/easy/py-reverse-order/solution.py": "ec9037519c59123dd04a0ab4c91ff9f93537301d99e4cca1f25d451826a83ba2",
+  "practice/python/easy/py-safe-divide/solution.py": "2a43f6b3874fd6fa1a98bc4b3ef94c64621543755cd6fab375497f9bc1317d66",
+  "practice/python/easy/py-slugify-space/solution.py": "b59c085701e9f5e0490ceed589c86e4582602320ce7f41619a49d640f85c9d7d",
+  "practice/python/easy/py-split-bill/solution.py": "8124d9201c1e3d586a797450c348d92ccef5003339ed90001ccadaa97329a830",
+  "practice/python/easy/py-has-prefix/solution.py": "e5279e015a0616821e5ff487302e9dbccca69577639696c80c40f76dc6876464",
+  "practice/python/easy/py-in-range/solution.py": "4ebebcba2ab8f867546d03b64da95246113350ec205df25a1d9794b69a5c8d33",
+  "practice/python/easy/py-late-fee/solution.py": "77d7ceed503bfe8bdf7498f720ead2e2b2533b99f9ff33277d8f351f16187e23",
+  "practice/python/easy/py-leftover-seats/solution.py": "781ef56be3045e7ae57f834fa953d5392c97bc5cc831b30689c616f876bfb588",
+  "practice/python/easy/py-mask-phone/solution.py": "8d15afa1cca845ca669dc665c428ec07e42e10d53542d2967bdb0c7cbbe15065",
+  "practice/python/easy/py-filter-long-names/solution.py": "29cbd30e6560b6ca6a3e33effd3ea89e9141be4c891f470bfb316f8abf0deab0"
 }

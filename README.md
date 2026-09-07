@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**114** problems solved on [Xom Data](https://xomdata.com/practice).
+**128** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 20 | 0 | 0 | 0 | 20 |
+| Python | 34 | 0 | 0 | 0 | 34 |
 | SQL | 55 | 35 | 4 | 0 | 94 |
 
 **Recently solved**
 
-- [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-09-06
-- [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-09-05
-- [py-min-value](https://xomdata.com/practice/py-min-value) · Easy · 2026-09-05
-- [py-title-case](https://xomdata.com/practice/py-title-case) · Easy · 2026-09-05
-- [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-09-05
-- [py-in-stock](https://xomdata.com/practice/py-in-stock) · Easy · 2026-09-05
-- [py-tip-amount](https://xomdata.com/practice/py-tip-amount) · Easy · 2026-09-05
-- [py-count-value](https://xomdata.com/practice/py-count-value) · Easy · 2026-09-05
-- [py-count-even](https://xomdata.com/practice/py-count-even) · Easy · 2026-09-05
-- [py-count-digits](https://xomdata.com/practice/py-count-digits) · Easy · 2026-09-05
+- [py-filter-long-names](https://xomdata.com/practice/py-filter-long-names) · Easy · 2026-09-07
+- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-09-07
+- [py-leftover-seats](https://xomdata.com/practice/py-leftover-seats) · Easy · 2026-09-07
+- [py-late-fee](https://xomdata.com/practice/py-late-fee) · Easy · 2026-09-07
+- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-09-07
+- [py-has-prefix](https://xomdata.com/practice/py-has-prefix) · Easy · 2026-09-07
+- [py-split-bill](https://xomdata.com/practice/py-split-bill) · Easy · 2026-09-07
+- [py-slugify-space](https://xomdata.com/practice/py-slugify-space) · Easy · 2026-09-07
+- [py-safe-divide](https://xomdata.com/practice/py-safe-divide) · Easy · 2026-09-07
+- [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-09-07
 
-_Synced 114 solutions · last update 2026-09-06_
+_Synced 128 solutions · last update 2026-09-07_
 
 <!-- xomdata:stats:end -->
 

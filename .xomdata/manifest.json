@@ -127,5 +127,11 @@
   "practice/python/easy/py-leftover-seats/solution.py": "781ef56be3045e7ae57f834fa953d5392c97bc5cc831b30689c616f876bfb588",
   "practice/python/easy/py-mask-phone/solution.py": "8d15afa1cca845ca669dc665c428ec07e42e10d53542d2967bdb0c7cbbe15065",
   "practice/python/easy/py-filter-long-names/solution.py": "29cbd30e6560b6ca6a3e33effd3ea89e9141be4c891f470bfb316f8abf0deab0",
-  "practice/sql/hard/hard-ltv-006/solution.sql": "641281e0c0ecdc48fde311dfcc662f0749d34f98f023e57418c204260c1fd20e"
+  "practice/sql/hard/hard-ltv-006/solution.sql": "641281e0c0ecdc48fde311dfcc662f0749d34f98f023e57418c204260c1fd20e",
+  "practice/python/easy/py-sum-to-n/solution.py": "3bea07f3d53bd834b55586809ab06b9f8700ed6cc335a6210ec5b3c39391f3ef",
+  "practice/python/easy/py-best-branch/solution.py": "905110e7f1b053186dfb0a28adca3ba902527b16207fb7ea5f5d2ab9ec7a8cd9",
+  "practice/python/easy/py-overtime-pay/solution.py": "ebd67da240225cc473fbb051a7138ec63cc40c77d351583f6bbdad2b8fa6ad98",
+  "practice/python/easy/py-ticket-price/solution.py": "c66711d4d13f8c339e6200c3ab9de339ae8de280ac7a473542f7b0c4fc31962f",
+  "practice/python/easy/py-time-format/solution.py": "1ad985619f629035ac718cc3dd59b65eed226c82f8acbce2b71a8223e16d4eff",
+  "practice/python/easy/py-triangle-valid/solution.py": "4a0d86b9215f4c80114cb8a8ff7b964746c5c60df9090d38d4f8e64e9360dad3"
 }

@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**135** problems solved on [Xom Data](https://xomdata.com/practice).
+**161** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 40 | 0 | 0 | 0 | 40 |
-| SQL | 55 | 35 | 5 | 0 | 95 |
+| SQL | 88 | 25 | 8 | 0 | 121 |
 
 **Recently solved**
 
-- [py-triangle-valid](https://xomdata.com/practice/py-triangle-valid) · Easy · 2026-09-08
-- [py-time-format](https://xomdata.com/practice/py-time-format) · Easy · 2026-09-08
-- [py-ticket-price](https://xomdata.com/practice/py-ticket-price) · Easy · 2026-09-08
-- [py-overtime-pay](https://xomdata.com/practice/py-overtime-pay) · Easy · 2026-09-08
-- [py-best-branch](https://xomdata.com/practice/py-best-branch) · Easy · 2026-09-08
-- [py-sum-to-n](https://xomdata.com/practice/py-sum-to-n) · Easy · 2026-09-08
-- [hard-ltv-006](https://xomdata.com/practice/hard-ltv-006) · Hard · 2026-09-07
-- [py-filter-long-names](https://xomdata.com/practice/py-filter-long-names) · Easy · 2026-09-07
-- [py-mask-phone](https://xomdata.com/practice/py-mask-phone) · Easy · 2026-09-07
-- [py-leftover-seats](https://xomdata.com/practice/py-leftover-seats) · Easy · 2026-09-07
+- [easy-leftjoin-003](https://xomdata.com/practice/easy-leftjoin-003) · Easy · 2026-09-09
+- [medium-active-004](https://xomdata.com/practice/medium-active-004) · Easy · 2026-09-09
+- [easy-lower-001](https://xomdata.com/practice/easy-lower-001) · Easy · 2026-09-09
+- [easy-like-003](https://xomdata.com/practice/easy-like-003) · Easy · 2026-09-09
+- [easy-like-002](https://xomdata.com/practice/easy-like-002) · Easy · 2026-09-09
+- [easy-length-001](https://xomdata.com/practice/easy-length-001) · Easy · 2026-09-09
+- [easy-notlike-001](https://xomdata.com/practice/easy-notlike-001) · Easy · 2026-09-09
+- [easy-not-001](https://xomdata.com/practice/easy-not-001) · Easy · 2026-09-09
+- [easy-min-001](https://xomdata.com/practice/easy-min-001) · Easy · 2026-09-09
+- [easy-max-002](https://xomdata.com/practice/easy-max-002) · Easy · 2026-09-09
 
-_Synced 135 solutions · last update 2026-09-08_
+_Synced 171 solutions · last update 2026-09-09_
 
 <!-- xomdata:stats:end -->
 

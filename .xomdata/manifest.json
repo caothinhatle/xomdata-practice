@@ -172,5 +172,9 @@
   "practice/sql/easy/easy-leftjoin-003/solution.sql": "2ca07eeeae2d1073f554be56d9099aae6666cce595c616f44ad4946e07b18ed3",
   "practice/python/easy/pd-table-size/solution.py": "45495a5fc28aa41238689b384a2c99f0b344bf4f6216366bd6c2c1f53b6cecec",
   "practice/python/easy/pd-first-rows/solution.py": "50ba3a0ebd7df9dc6588e9739a48dfee5f081078b54cc3e8c0481504b795d242",
-  "practice/python/easy/pd-pick-columns/solution.py": "be8e5ec0cc3d349a5d134139f32f999855eeda52c98d912442e88c0689c98492"
+  "practice/python/easy/pd-pick-columns/solution.py": "be8e5ec0cc3d349a5d134139f32f999855eeda52c98d912442e88c0689c98492",
+  "practice/python/easy/pd-filter-isin/solution.py": "22c04694bbade23031e4da0c9ea1121cabbd3db225df4c534ae5542718af6121",
+  "practice/python/easy/pd-sort-top-n/solution.py": "2daa938b1db517980a7cf78441a073090d2871be2718a1cad0207e5bc01a0ee3",
+  "practice/python/easy/pd-count-matching/solution.py": "b03b4b16460c3f7866d737e6891307b30b12efcc1b9ca66b81c87a117cb512f2",
+  "practice/python/easy/pd-missing-count/solution.py": "c6387930be5354a5ef0813b90021eccad27fae21e9ff967697e03b49d9e1d4bf"
 }
